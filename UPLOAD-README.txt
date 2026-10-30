@@ -1,2 +1,1 @@
-Upload all six files into the root of the Travel-Planner repository and replace index.html.
-The old icon files may remain, but this version does not reference them.
+Alle Dateien direkt in das Hauptverzeichnis des GitHub-Repositorys Travel-Planner hochladen. index.html ersetzen. Danach Commit changes ausführen.
