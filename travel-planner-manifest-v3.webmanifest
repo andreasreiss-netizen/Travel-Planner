@@ -1,0 +1,15 @@
+{
+  "id": "/Travel-Planner/",
+  "name": "Airport Travel Planner",
+  "short_name": "Travel Planner",
+  "description": "Berechnet die Abfahrtszeit zum Flughafen.",
+  "start_url": "/Travel-Planner/",
+  "scope": "/Travel-Planner/",
+  "display": "standalone",
+  "background_color": "#0b4aa2",
+  "theme_color": "#1557b0",
+  "icons": [
+    {"src":"/Travel-Planner/travel-planner-192-v3.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"/Travel-Planner/travel-planner-512-v3.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
